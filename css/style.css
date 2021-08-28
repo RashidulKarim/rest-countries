@@ -4,6 +4,10 @@
     margin: 10px auto;
     padding: 20px;
 }
+small{
+    font-size: 12px;
+    color: gray;
+}
 #countries{
     display: grid;
     grid-template-columns: repeat(3,1fr);
